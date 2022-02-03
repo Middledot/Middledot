@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello there 👋
 
 I am Middledot, I do python and web stuff.
 
@@ -6,6 +6,14 @@ I am Middledot, I do python and web stuff.
 - 🌱 I’m currently learning SQL, html and css.
 - 📫 You can reach me on discord (Middledot#5281) or through this [discord server](https://discord.gg/ckuGNY4S33).
 
-![Middledot's github stats](https://github-readme-stats.vercel.app/api?username=Middledot&show_icons=true&theme=merko)
+![Middledot's github stats](https://github-readme-stats.vercel.app/api?username=Middledot&show_icons=true&theme=merko&hide_border=True)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Middledot&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Middledot&theme=merko&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+
+## Some Cool Repositories
+
+[![Pycord](https://github-readme-stats.vercel.app/api/pin/?username=Pycord-Development&repo=pycord&theme=merko&hide_border=True)](https://github.com/Pycord-Development/pycord)
+
+[![MathParser](https://github-readme-stats.vercel.app/api/pin/?username=Middledot&repo=MathParser&theme=merko&hide_border=True)](https://github.com/Middledot/MathParser)
+
+<!-- [![disno](https://github-readme-stats.vercel.app/api/pin/?username=QwireDev&repo=disno&theme=merko&hide_border=True)](https://github.com/QwireDev/disno) -->
