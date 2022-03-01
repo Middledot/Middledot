@@ -2,7 +2,7 @@
 
 I am Middledot, I do python and web stuff.
 
-- 🔭 I’m currently working on [qwire](https://discord.com/api/oauth2/authorize?client_id=769943952030826497&permissions=607513815&scope=bot%20applications.commands), a discord bot and [pycord](https://github.com/Pycord-Development/pycord), a discord api wrapper in python (a maintained fork of discord.py).
+- 🔭 I’m currently working on [qwire](https://qwire.xyz), a discord bot and [pycord](https://github.com/Pycord-Development/pycord), a discord api wrapper in python (a maintained fork of discord.py).
 - 🌱 I’m currently learning SQL, html and css.
 - 📫 You can reach me on discord (Middledot#5281) or through this [discord server](https://discord.gg/ckuGNY4S33).
 
