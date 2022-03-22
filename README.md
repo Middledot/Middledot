@@ -17,7 +17,3 @@ I am Middledot, I do python and web stuff.
 [![disno](https://github-readme-stats.vercel.app/api/pin/?username=QwireDev&repo=disno&theme=merko&hide_border=True)](https://github.com/QwireDev/disno)
 
 [![MathParser](https://github-readme-stats.vercel.app/api/pin/?username=Middledot&repo=MathParser&theme=merko&hide_border=True)](https://github.com/Middledot/MathParser)
-
-[![SandboxBot](https://github-readme-stats.vercel.app/api/pin/?username=Middledot&repo=Sandbox-Bot&theme=merko&hide_border=True)](https://github.com/Middledot/Sandbox-Bot)
-
-[![PrivateRooms-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Middledot&repo=PrivateRooms-Bot&theme=merko&hide_border=True)](https://github.com/Middledot/PrivateRooms-Bot)
