@@ -7,5 +7,3 @@ I am Middledot, I do python and web stuff.
 - 📫 You can reach me on discord (Middledot#5281) or through this [discord server](https://discord.gg/ckuGNY4S33).
 
 ![Middledot's github stats](https://github-readme-stats.vercel.app/api?username=Middledot&show_icons=true&theme=merko&hide_border=True&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Middledot&theme=merko&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
