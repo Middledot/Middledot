@@ -2,8 +2,6 @@
 
 I am Middledot, I do web stuff.
 
-https://middledot.github.io/
-
 - 🔭 I’m currently working on [qwire](https://qwire.xyz), [pycord](https://github.com/Pycord-Development/pycord), and some other soon-to-be things.
 - 🌱 I'm fluent in python and currently learning Javascript (React & Solid), and Rust.
 - 📫 You can reach me on discord (Middledot#5281) or through this [discord server](https://discord.gg/ckuGNY4S33).
